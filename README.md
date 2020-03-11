@@ -17,7 +17,7 @@ Height Field (optional)
 This field stores the height of each sample point above the ground. The default value is 0.
 
 New Shield Field (optional)
-The is the derived shielding field name that will be added to the attibute table.
+The is the derived shielding field name that will be added to the attibute table. The default is defShed.
 
 Output Points
 Output point file with derived topographic shielding value for each point.
