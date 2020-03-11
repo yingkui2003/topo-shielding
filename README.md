@@ -25,3 +25,6 @@ The is the derived shielding field name that will be added to the attibute table
 
 Output Points
 Output point file with derived topographic shielding value for each point.
+
+Cite this work:
+Li, Y. Determining topographic shielding from digital elevation models for cosmogenic nuclide analysis: a GIS model for discrete sample sites. J. Mt. Sci. 15, 939–947 (2018). https://doi.org/10.1007/s11629-018-4895-4.
