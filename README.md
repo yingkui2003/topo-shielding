@@ -25,7 +25,15 @@ New Shield Field (optional)
 The is the derived shielding field name that will be added to the attibute table. The default is defShed.
 
 Output Points
-Output point file with derived topographic shielding value for each point.
+Output point file with derived topographic shielding value for each point. Note that a valid feature class (table) name in the geodatabase cannot start with a number, it has to start with a character. Please follow proper table naming conventions: 
+
+(1) Names must begin with a letter, not a number or special character such as an asterisk (*) or percent sign (%). 
+
+(2) Names should not contain spaces. If you have a two-part name for your table or feature class, connect the words with an underscore (_), for example, garbage_routes. 
+
+(3) Names should not contain reserved words, such as select or add. 
+
+(4) Names are limited to 32 characters. The database and schema names do not count toward your 32 characters.
 
 Cite this work:
 
